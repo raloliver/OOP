@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Israel Oliveira\\source\\repos\\OPP\\OPP\\OPP.csproj": {}
+    "C:\\Users\\Israel Oliveira\\source\\repos\\OOP\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Israel Oliveira\\source\\repos\\OPP\\OPP\\OPP.csproj": {
+    "C:\\Users\\Israel Oliveira\\source\\repos\\OOP\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Israel Oliveira\\source\\repos\\OPP\\OPP\\OPP.csproj",
-        "projectName": "OPP",
-        "projectPath": "C:\\Users\\Israel Oliveira\\source\\repos\\OPP\\OPP\\OPP.csproj",
+        "projectUniqueName": "C:\\Users\\Israel Oliveira\\source\\repos\\OOP\\OOP\\OOP.csproj",
+        "projectName": "OOP",
+        "projectPath": "C:\\Users\\Israel Oliveira\\source\\repos\\OOP\\OOP\\OOP.csproj",
         "packagesPath": "C:\\Users\\Israel Oliveira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Israel Oliveira\\source\\repos\\OPP\\OPP\\obj\\",
+        "outputPath": "C:\\Users\\Israel Oliveira\\source\\repos\\OOP\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Israel Oliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
